@@ -1,5 +1,5 @@
 package entity;
-
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
 import javax.persistence.*;
 
 @Entity
